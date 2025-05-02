@@ -46,7 +46,7 @@ This project allowed me to apply SQL, clean data, and create visualizations to d
 
 - 100_dog_names.sql`: SQL code used for visualizing the 100 favourite names.
 - Source.csv`: The excel file that is the source of everything.
--15_names_sql_visual: the default sql visual presenting the top 15 trends.
+- 15_names_sql_visual: the default sql visual presenting the top 15 trends.
 
 ---
 
