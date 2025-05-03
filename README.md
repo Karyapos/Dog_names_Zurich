@@ -1,7 +1,7 @@
 # Dog Names Trend Analysis - Zurich
 
 **Tools Used:**  
-SQL (PostgreSQL), Power BI
+SQL (PostgreSQL), Microsoft Excel
 
 **Skills Applied:**  
 Data cleaning, trend analysis, SQL querying, data visualization
@@ -51,3 +51,4 @@ This project allowed me to apply SQL, clean data, and create visualizations to d
 ---
 
 For a more detailed and polished presentation of this project, feel free to explore my **Notion** page:
+https://ten-christmas-260.notion.site/SQL-Project-Dog-Name-1cb434ba332380e78e89c6d80f885dcf
